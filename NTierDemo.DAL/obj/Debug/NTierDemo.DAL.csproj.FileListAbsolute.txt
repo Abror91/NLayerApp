@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\obj\Debug\NTierDemo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\obj\Debug\NTierDemo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\NTierDemo.DAL.dll.config
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\NTierDemo.DAL.dll
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\NTierDemo.DAL.pdb
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\obj\Debug\NTierDemo.DAL.dll
+C:\Users\Администратор\source\repos\NTierDemo\NTierDemo.DAL\obj\Debug\NTierDemo.DAL.pdb
